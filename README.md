@@ -1,1 +1,2 @@
-# API
+# API 
+API testing is a type of software testing that analyzes an application program interface (API) to verify it fulfills its expected functionality, security, performance and reliability. The tests are performed either directly on the API or as part of integration testing. An API is middleware code that enables two software programs to communicate with each other. The code also specifies the way an application requests services from the operating system (OS) or other applications.
