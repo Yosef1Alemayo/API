@@ -1,0 +1,56 @@
+{
+  "uid" : "df0030572c32e1f3",
+  "name" : "test_search_incorrectly_with_invalid_value",
+  "fullName" : "Pages.Search.test_search.Test_Search#test_search_incorrectly_with_invalid_value",
+  "historyId" : "8109f2ebddd787a3f8cee8c2fb29d783",
+  "time" : {
+    "start" : 1653477918603,
+    "stop" : 1653477919364,
+    "duration" : 761
+  },
+  "description" : "Search Incorrectly When City Name Invalid",
+  "descriptionHtml" : "<p>Search Incorrectly When City Name Invalid</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Pages.Search"
+  }, {
+    "name" : "suite",
+    "value" : "test_search"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_Search"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-HUQDADBQ"
+  }, {
+    "name" : "thread",
+    "value" : "5892-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Pages.Search.test_search"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "df0030572c32e1f3.json",
+  "parameterValues" : [ ]
+}

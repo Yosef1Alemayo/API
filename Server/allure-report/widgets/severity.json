@@ -1,0 +1,91 @@
+[ {
+  "uid" : "93c5f87a715eaf5b",
+  "name" : "test_login_correctly",
+  "time" : {
+    "start" : 1653478095023,
+    "stop" : 1653478096004,
+    "duration" : 981
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3dbf9c7cbac41985",
+  "name" : "test_user_register_incorrectly_with_exist_email",
+  "time" : {
+    "start" : 1653478100037,
+    "stop" : 1653478100897,
+    "duration" : 860
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fe4e4fceb8d8194c",
+  "name" : "test_user_register_correctly",
+  "time" : {
+    "start" : 1653478098973,
+    "stop" : 1653478100034,
+    "duration" : 1061
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "de417be59a4e7ca5",
+  "name" : "test_search_correctly",
+  "time" : {
+    "start" : 1653478101412,
+    "stop" : 1653478102240,
+    "duration" : 828
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2e1e4daec2b7cf21",
+  "name" : "test_search_incorrectly_when_city_not_exist",
+  "time" : {
+    "start" : 1653478102242,
+    "stop" : 1653478103012,
+    "duration" : 770
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "82065fdb0adc1af4",
+  "name" : "test_login_with_incorrectly_email_and_password",
+  "time" : {
+    "start" : 1653478097685,
+    "stop" : 1653478098468,
+    "duration" : 783
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6593687e17b18e8",
+  "name" : "test_login_with_incorrectly_password",
+  "time" : {
+    "start" : 1653478096007,
+    "stop" : 1653478096883,
+    "duration" : 876
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9b3873aac7d54b62",
+  "name" : "test_login_with_incorrectly_email",
+  "time" : {
+    "start" : 1653478096886,
+    "stop" : 1653478097672,
+    "duration" : 786
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "226a407959c78be1",
+  "name" : "test_search_incorrectly_with_invalid_value",
+  "time" : {
+    "start" : 1653478103015,
+    "stop" : 1653478103807,
+    "duration" : 792
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

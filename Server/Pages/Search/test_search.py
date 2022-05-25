@@ -36,3 +36,4 @@ class Test_Search:
         assert res.elapsed.total_seconds() < 10
         assert res_data['success'] == False
         assert res_data['message'] == "no city found"
+

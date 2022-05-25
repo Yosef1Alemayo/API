@@ -1,0 +1,56 @@
+{
+  "uid" : "38575ac8e87ee72d",
+  "name" : "test_search_correctly",
+  "fullName" : "Pages.Search.test_search.Test_Search#test_search_correctly",
+  "historyId" : "49fcad738c0bb77d0f283a9fe307809d",
+  "time" : {
+    "start" : 1653477917022,
+    "stop" : 1653477917798,
+    "duration" : 776
+  },
+  "description" : "Search Correctly In The Website",
+  "descriptionHtml" : "<p>Search Correctly In The Website</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Pages.Search"
+  }, {
+    "name" : "suite",
+    "value" : "test_search"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_Search"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-HUQDADBQ"
+  }, {
+    "name" : "thread",
+    "value" : "5892-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Pages.Search.test_search"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "38575ac8e87ee72d.json",
+  "parameterValues" : [ ]
+}

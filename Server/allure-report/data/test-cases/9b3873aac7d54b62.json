@@ -1,0 +1,113 @@
+{
+  "uid" : "9b3873aac7d54b62",
+  "name" : "test_login_with_incorrectly_email",
+  "fullName" : "Pages.Login.test_login.Test_Login#test_login_with_incorrectly_email",
+  "historyId" : "cae5b05c7d0849cdee0834f58a1118ed",
+  "time" : {
+    "start" : 1653478096886,
+    "stop" : 1653478097672,
+    "duration" : 786
+  },
+  "description" : "Login When Email Incorrectly",
+  "descriptionHtml" : "<p>Login When Email Incorrectly</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Pages.Login"
+  }, {
+    "name" : "suite",
+    "value" : "test_login"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_Login"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-HUQDADBQ"
+  }, {
+    "name" : "thread",
+    "value" : "5416-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Pages.Login.test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "d5a77ac324e83934",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653477912390,
+        "stop" : 1653477913186,
+        "duration" : 796
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 5,
+        "unknown" : 0,
+        "total" : 5
+      },
+      "items" : [ {
+        "uid" : "81a0287de56d9967",
+        "reportUrl" : "http://localhost:8080/job/Server%20side%20Tests/8/allure/#testresult/81a0287de56d9967",
+        "status" : "passed",
+        "time" : {
+          "start" : 1653477912390,
+          "stop" : 1653477913186,
+          "duration" : 796
+        }
+      }, {
+        "uid" : "939aabcbd2c34cfc",
+        "reportUrl" : "http://localhost:8080/job/Server%20side%20Tests/7/allure/#testresult/939aabcbd2c34cfc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1653477001085,
+          "stop" : 1653477001892,
+          "duration" : 807
+        }
+      }, {
+        "uid" : "d2344f05d7efbd5c",
+        "reportUrl" : "http://localhost:8080/job/Server%20side%20Tests/6/allure/#testresult/d2344f05d7efbd5c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1653472155880,
+          "stop" : 1653472157812,
+          "duration" : 1932
+        }
+      }, {
+        "uid" : "f54b507ef7cb68c2",
+        "reportUrl" : "http://localhost:8080/job/Server%20side%20Tests/5/allure/#testresult/f54b507ef7cb68c2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1653472037907,
+          "stop" : 1653472039539,
+          "duration" : 1632
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "9b3873aac7d54b62.json",
+  "parameterValues" : [ ]
+}
