@@ -1,6 +1,6 @@
 import random
-
 import requests
+
 class Test_Register:
     URL = 'https://trip-yoetz.herokuapp.com/auth/register'
 
@@ -18,7 +18,6 @@ class Test_Register:
         assert res.elapsed.total_seconds() < 10
         assert res_data['success'] == True
         assert res_data['message'] == 'user added successfully'
-
 
     def test_user_register_incorrectly_with_exist_email(self):
         url = Test_Register.URL

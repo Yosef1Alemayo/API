@@ -1,4 +1,5 @@
 import requests
+
 class Test_Login:
     URL = 'https://trip-yoetz.herokuapp.com/auth/login'
 
@@ -43,4 +44,4 @@ class Test_Login:
         assert res.elapsed.total_seconds() < 10
         assert res_data['success'] == False
         assert res_data['message'] == "no user found"
-        print('Passed')
+

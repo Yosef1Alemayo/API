@@ -1,4 +1,5 @@
 import requests
+
 class Test_Search:
     URL = "https://trip-yoetz.herokuapp.com/api/cities/"
 
