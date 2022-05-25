@@ -6,7 +6,7 @@ class Test_Login:
     def test_login_correctly(self):
         url = Test_Login.URL
         data = {"email": "Yosef@gmail.com",
-                "password": "123456"}
+                "password": "******"}
         res = requests.post(url, json=data)
         res_data = res.json()
         assert res.status_code == 200
